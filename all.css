@@ -144,9 +144,15 @@ body{
     background: #fff;
     color: #000;
 }
+.btn-light:hover{
+    background: #00FFA3;
+}
 .btn-dark{
     background: #000;
     color: #fff;
+}
+.btn-dark:hover{
+    background: #00FFA3;
 }
 /* 內容 */
 .header{
@@ -162,9 +168,6 @@ body{
 .nav{
     justify-content: space-between;
     align-items: center;
-}
-.nav li a:hover{
-    background: #00FFA3;
 }
 .banner{
     background: #000;
@@ -222,9 +225,6 @@ body{
 .project-title{
     width: 746px;
     margin-left: auto;
-}
-.btn-hover:hover{
-    background: #00FFA3;
 }
 .footer{
     background: rgba(0, 0, 0, 1);
