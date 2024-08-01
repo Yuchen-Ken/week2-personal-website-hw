@@ -163,9 +163,15 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+.nav li a:hover{
+    color: #00FFA3;
+}
 .banner{
     background: #000;
     color: #fff;
+}
+.banner-text a:hover{
+    color: #00FFA3;
 }
 .intro{
     background-image: url(../week2-personal-website-hw/imgs/background-img.png);
@@ -216,6 +222,9 @@ body{
 .project-title{
     width: 746px;
     margin-left: auto;
+}
+.btn-hover:hover{
+    color: #00FFA3;
 }
 .footer{
     background: rgba(0, 0, 0, 1);
