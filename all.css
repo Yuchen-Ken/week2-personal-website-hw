@@ -211,7 +211,7 @@ body{
     transition: 1s;  
 }
 .project{
-    margin-top: 160px;
+    padding: 160px 0;;
 }
 .project-title{
     width: 746px;
