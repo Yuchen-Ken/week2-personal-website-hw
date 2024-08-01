@@ -146,6 +146,7 @@ body{
 }
 .btn-light:hover{
     background: #00FFA3;
+    color: #000;
 }
 .btn-dark{
     background: #000;
@@ -153,6 +154,7 @@ body{
 }
 .btn-dark:hover{
     background: #00FFA3;
+    color: #fff;
 }
 /* 內容 */
 .header{
