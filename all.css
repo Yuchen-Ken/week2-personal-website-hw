@@ -164,7 +164,7 @@ body{
     align-items: center;
 }
 .nav li a:hover{
-    color: #00FFA3;
+    background: #00FFA3;
 }
 .banner{
     background: #000;
@@ -224,7 +224,7 @@ body{
     margin-left: auto;
 }
 .btn-hover:hover{
-    color: #00FFA3;
+    background: #00FFA3;
 }
 .footer{
     background: rgba(0, 0, 0, 1);
